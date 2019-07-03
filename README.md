@@ -5,6 +5,7 @@ Lane, Road Mark, Traffic Sign, Vanishing Point Labeling Tools
 ## Features
 * Support Lane, Road Mark, Traffic Sign, Vanishing Point Labeling Tools
 * Dragable Points
+* Support window resizing
 
 ## Dependency
 * Python 3
