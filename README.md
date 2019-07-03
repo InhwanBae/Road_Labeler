@@ -4,7 +4,8 @@ Lane, Road Mark, Traffic Sign, Vanishing Point Labeling Tools
 
 ## Features
 * Support Lane, Road Mark, Traffic Sign, Vanishing Point Labeling Tools
-* Dragable Points
+* Draggable Points
+* Variable image size support (all images must be the same size)
 * Support window resizing
 
 ## Dependency
