@@ -15,6 +15,24 @@ Lane, Road Mark, Traffic Sign, Vanishing Point Labeling Tools
 * Matplotlib
 * Pillow
 
+## Data Preparation
+```
+Road_Labeler_Path
+├── main.py
+├── marker.py
+├── ui.py
+├── updater.py
+└── data
+    ├── video01
+    │   ├── frame0001.jpg
+    │   ├── frame0002.jpg
+    │   ├── frame0003.jpg
+    │   └── ...
+    ├── video02
+    ├── video03
+    └── ...
+```
+
 ## Demo Images
 | ![DEMO1](/image/demo1.png) | ![DEMO4](/image/demo4.png) |
 |:--------:|:--------:|
