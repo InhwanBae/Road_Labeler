@@ -16,6 +16,7 @@ Lane, Road Mark, Traffic Sign, Vanishing Point Labeling Tools
 * Pillow
 
 ## Data Preparation
+Put the data to be used for labeling in the `data` folder. When executing the program, it automatically creates a list of files in `data` folder and proceeds labeling.
 ```
 Road_Labeler_Path
 ├── main.py
