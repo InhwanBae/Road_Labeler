@@ -15,7 +15,8 @@ Lane, Road Mark, Traffic Sign, Vanishing Point Labeling Tools
 * Matplotlib
 * Pillow
 
-## Data Preparation
+## Labeling Process
+### Data Preparation
 Put the data to be used for labeling in the `data` folder. When executing the program, it automatically creates a list of files in `data` folder and proceeds labeling.
 ```
 Road_Labeler_Path
@@ -23,6 +24,7 @@ Road_Labeler_Path
 ├── marker.py
 ├── ui.py
 ├── updater.py
+├── postprocess.py
 └── data
     ├── video01
     │   ├── frame0001.jpg
@@ -33,6 +35,12 @@ Road_Labeler_Path
     ├── video03
     └── ...
 ```
+
+### Data Preparation
+Run `main.py` to execute the program.
+
+### Data Postprocessing
+Run `postprocess.py` to generate labeled image.
 
 ## Demo Images
 | ![DEMO1](/image/demo1.png) | ![DEMO4](/image/demo4.png) |
