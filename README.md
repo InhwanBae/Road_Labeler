@@ -36,8 +36,8 @@ Road_Labeler_Path
     └── ...
 ```
 
-### Data Preparation
-Run `main.py` to execute the program.
+### Data Labeling
+Run `main.py` to execute the program. A single executable file created using pyexe can be downloaded here.
 
 ### Data Postprocessing
 Run `postprocess.py` to generate labeled image.
