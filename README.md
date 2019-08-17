@@ -2,14 +2,14 @@
 Lane, Road Mark, Traffic Sign, Vanishing Point Labeling Tools
 ![DEMO2](/image/demo2.png)
 
-## Features
+### Features
 * Support lane, road mark, traffic sign, vanishing point labeling tools
 * Multiple vertices line & polygon support
 * Draggable Points
 * Variable image size support (all images must be the same size)
 * Support window resizing
 
-## Dependency
+### Dependency
 * Python 3
 * PyQt5
 * Matplotlib
